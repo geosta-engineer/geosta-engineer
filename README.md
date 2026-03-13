@@ -1,70 +1,102 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=220&section=header&text=Hi%2C%20I'm%20Georgios%20%F0%9F%91%8B&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Automation%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Full%20Stack%20Developer&descAlignY=62&descColor=8b949e" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=Georgios%20Stavaras&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Automation%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Full%20Stack%20Developer&descAlignY=60&descColor=8b949e" />
+---
+
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+### About Me
+
+```python
+engineer = {
+    "name"      : "Georgios Stavaras",
+    "location"  : "Larisa, Greece 🇬🇷",
+    "role"      : "Automation Engineer",
+    "experience": "7+ years",
+    "languages" : ["Python", "C", "C++", "JavaScript"],
+    "hardware"  : ["Arduino", "Raspberry Pi", "PCB Design"],
+    "web"       : ["React", "Next.js", "FastAPI", "Flask"],
+    "focus"     : ["Automation", "Embedded Systems", "Full Stack"],
+    "website"   : "gstavaras.gr",
+    "open_to"   : "Freelance & Collaborations 🤝"
+}
+```
+
+<br/>
+
+- 🔧 Building **automation & embedded systems** for 7+ years
+- 🌐 Full-stack web developer with **React, Next.js & Python backends**
+- 🔌 **PCB design, 3D modeling & electronics** engineering
+- 🛰️ Worked in **digital agriculture** with satellite & drone data at CERTH
+- 🔐 Certified in **Cisco Networking & Cybersecurity**
+- 💼 Open to **freelance projects** and interesting challenges
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash&theme=dark&perline=6" />
+
+### Web & Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma&theme=dark&perline=6" />
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,django,postgres,sqlite&theme=dark&perline=6" />
+
+### Embedded & Hardware
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,docker,git,github&theme=dark&perline=6" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,githubactions,mongodb,redis,nginx,cloudflare&theme=dark&perline=6" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=geosta-engineer&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geosta-engineer&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geosta-engineer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=7%2B+years+building+automation+systems.;Embedded+systems%2C+robotics+%26+IoT+engineering.;Full-stack+web+development+%26+Python.;PCB+design%2C+3D+design+%26+electronics.;Turning+complex+problems+into+clean+solutions.)](https://git.io/typing-svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=geosta-engineer&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1b27&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## About Me
+## 🚀 Activity Graph
 
-I'm **Georgios Stavaras**, an Automation Engineer based in **Larisa, Greece** with 7+ years of experience designing and implementing automated systems across diverse industries. I combine hardware expertise — embedded systems, PCB design, electronics — with strong software skills in Python, C/C++, and full-stack web development.
+<div align="center">
 
-- **Automation & Embedded Systems** — Arduino, Raspberry Pi, C/C++, embedded firmware, IoT
-- **Python & Scripting** — automation pipelines, data processing, backend services, bots
-- **Web & Full Stack** — React, JavaScript, REST APIs, databases, deployment
-- **Hardware Design** — PCB design, 3D design, electronics design
-- **Networks & Security** — Cisco Networking Essentials, Cybersecurity fundamentals (Cisco)
-- **Digital Agriculture** — multispectral data (satellite/drone), GIS shapefiles, precision farming
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geosta-engineer&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-
-### Embedded & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00979D)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
-![PCB Design](https://img.shields.io/badge/PCB_Design-0d1117?style=for-the-badge&logo=electron&logoColor=47848F)
-![3D Design](https://img.shields.io/badge/3D_Design-0d1117?style=for-the-badge&logo=autodesk&logoColor=0696D7)
-![IoT](https://img.shields.io/badge/IoT-0d1117?style=for-the-badge&logo=mqtt&logoColor=660066)
-
-### Web & Frontend
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-### Backend & Automation
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=43B02A)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-
-### Networks & Security
-![Cisco](https://img.shields.io/badge/Cisco_Networking-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-
----
-
-## What I Build
+## 💼 What I Build
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -94,22 +126,28 @@ I'm **Georgios Stavaras**, an Automation Engineer based in **Larisa, Greece** wi
 
 ---
 
-## Notable Projects
+## 🗂️ Notable Projects
 
-**Surveillance System — Raspberry Pi + Synology NAS + MotionEye**
-> Cost-effective, scalable IP surveillance system with real-time monitoring, motion detection, multi-camera support, and automated NAS backup.
+<div align="center">
 
-**Small-Scale Photovoltaic Autonomous System**
+[![Surveillance System](https://github-readme-stats.vercel.app/api/pin/?username=geosta-engineer&repo=geosta-engineer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/geosta-engineer)
+
+</div>
+
+**🎥 Surveillance System — Raspberry Pi + Synology NAS + MotionEye**
+> Scalable IP surveillance with real-time monitoring, motion detection, multi-camera support, and automated NAS backup.
+
+**☀️ Photovoltaic Autonomous System**
 > Design, study, and construction of a self-sufficient off-grid PV energy system — from circuit design through physical build and testing.
 
-**Digital Agriculture @ CERTH iBO**
-> Collection and processing of multispectral data from satellites and drones, integrated into agricultural tractors via GIS shapefiles for precision variable-rate field operations.
+**🌱 Digital Agriculture @ CERTH iBO**
+> Multispectral data from satellites and drones, integrated into agricultural tractors via GIS shapefiles for precision variable-rate field operations.
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-| Certificate | Issuer | Year |
+| 🏅 Certificate | 🏢 Issuer | 📅 Year |
 |---|---|---|
 | Networking Essentials | Cisco Networking Academy | 2023 |
 | Introduction to Cybersecurity | Cisco Networking Academy | 2023 |
@@ -118,24 +156,7 @@ I'm **Georgios Stavaras**, an Automation Engineer based in **Larisa, Greece** wi
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geosta-engineer&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geosta-engineer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=geosta-engineer&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1b27&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -144,12 +165,14 @@ I'm **Georgios Stavaras**, an Automation Engineer based in **Larisa, Greece** wi
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geosta-engineer)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=yahoo&logoColor=6001D2)](mailto:giorgos.stavaras@yahoo.com)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=geosta-engineer&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
 *Open to freelance projects, collaborations, and interesting engineering challenges.*
 
 </div>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=100&section=footer" />
-
 </div>
