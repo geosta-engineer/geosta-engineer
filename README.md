@@ -160,7 +160,7 @@ engineer = {
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Giorgos%20Stavaras-Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://gs-portfolio.giorgos-stavaras.workers.dev/)
+[![](https://img.shields.io/badge/Giorgos%20Stavaras-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://gs-portfolio.giorgos-stavaras.workers.dev/)[![](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge)](https://gs-portfolio.giorgos-stavaras.workers.dev/#projects)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/giorgos-stavaras)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geosta-engineer)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=yahoo&logoColor=6001D2)](mailto:giorgos.stavaras@yahoo.com)
